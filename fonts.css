@@ -1,0 +1,34 @@
+@font-face {
+	font-family: "news";
+	src: url("./fonts/news.woff2") format("woff2");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "news";
+	src: url("./fonts/newsi.woff2") format("woff2");
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "news";
+	src: url("./fonts/newsm.woff2") format("woff2");
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "auth";
+	src: url("./fonts/auth.woff2") format("woff2");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "auth";
+	src: url("./fonts/authb.woff2") format("woff2");
+	font-style: normal;
+	font-weight: bold;
+}
